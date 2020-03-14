@@ -8,7 +8,7 @@ vuex + webStorage 实现了购物车功能,axios拦截,配合路由钩子函数�
 
 ## 预览
 
-![](./static/car.gif)   ![](./static/login.gif)
+![](./static/car.gif)   ![](static/login.gif)
 
 
 ## 经验
